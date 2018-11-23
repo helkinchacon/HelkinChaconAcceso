@@ -1,0 +1,16 @@
+C:\Users\helki\source\repos\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\helki\source\repos\Supermercado\Supermercado\bin\Debug\Supermercado.exe
+C:\Users\helki\source\repos\Supermercado\Supermercado\bin\Debug\Supermercado.pdb
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.csprojAssemblyReference.cache
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.Form1.resources
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.producto_form.resources
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.Properties.Resources.resources
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.GenerateResource.cache
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.exe
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.pdb
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.cliente_form.resources
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.Proovedor_Form.resources
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.venta_form.resources
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.vendedor_form.resources
+C:\Users\helki\source\repos\Supermercado\Supermercado\obj\Debug\Supermercado.compra_form.resources
